@@ -14,7 +14,7 @@ Uses **WebSocket long connection** — no public URL, no ngrok, no webhook setup
 ## Install
 
 ```bash
-npx skills add qwibitai/nanoclaw-add-feishu-skill
+npx skills add will-17173/nanoclaw-add-feishu-skill
 ```
 
 Claude Code will guide you through the entire setup interactively.

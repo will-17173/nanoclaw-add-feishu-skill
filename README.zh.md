@@ -14,7 +14,7 @@
 ## 安装
 
 ```bash
-npx skills add qwibitai/nanoclaw-add-feishu-skill
+npx skills add will-17173/nanoclaw-add-feishu-skill
 ```
 
 Claude Code 会全程交互式引导你完成配置。
